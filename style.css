@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.FirstClass {
+    margin: 15px;
+    padding: 5px 10px;
+    border: 0;
+    border-radius: 5px;
+    background-color: yellow;
+}
+
+.style {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
