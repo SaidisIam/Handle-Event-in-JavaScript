@@ -6,7 +6,7 @@ let bd = document.body
 follow.onclick = ()=>{
     bd.classList.toggle('style')
     if(follow.innerHTML == 'dark'){
-        follow.innerHTML = 'yellow'
+        follow.innerHTML = 'light'
     } else {
         follow.innerHTML = 'dark'
     }
